@@ -1,4 +1,4 @@
-# Titanic: Machine Learning from Disaster
+# Titanic: Machine Learning from Disaster:100:
 https://www.kaggle.com/c/titanic/data
 * It is the first dataset on which the every data scientist and practicionere works on it.
 * It is one of the most important 
